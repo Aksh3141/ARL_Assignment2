@@ -1,0 +1,2 @@
+Hopper-v4: mean=2990.20, std=4.15 (over 100 episodes)
+HalfCheetah-v4: mean=2860.37, std=49.62 (over 100 episodes)
